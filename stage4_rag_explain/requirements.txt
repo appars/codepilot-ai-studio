@@ -1,0 +1,11 @@
+# Stage 4 — RAG Explain
+# Install with: pip install -r requirements.txt
+# NOTE: First run downloads ~90MB embedding model (one time only)
+
+langchain==0.3.7
+langchain-ollama==0.2.0
+langchain-community==0.3.7
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.4
+chromadb==0.5.18
+sentence-transformers==3.3.1

@@ -1,0 +1,5 @@
+# Stage 1 — Hello Ollama
+# Install with: pip install -r requirements.txt
+
+langchain==0.3.7
+langchain-ollama==0.2.0

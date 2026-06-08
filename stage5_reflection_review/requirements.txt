@@ -1,0 +1,6 @@
+# Stage 5 — Reflection Review
+# Install with: pip install -r requirements.txt
+
+langchain==0.3.7
+langchain-ollama==0.2.0
+langchain-community==0.3.7
